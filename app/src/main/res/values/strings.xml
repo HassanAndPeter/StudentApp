@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Student Support System</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!--    Side navigation Strings data -->
+    <string name="time_table">Time Table</string>
+    <string name="student_services">Student Services</string>
+    <string name="attendance">Attendance</string>
+    <string name="registration">Registration </string>
+    <string name="helpFul_tips">HelpFul Tips</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="take_course">Study</string>
+    <string name="timer">D-Stress Timer</string>
+    <!--    Sign in SignUp pages Strings data -->
+    <string name="student_registration">Student registration</string>
+    <string name="hint_user_name">User Name</string>
+    <string name="hint_email">Email</string>
+    <string name="password">Password</string>
+    <string name="button_register">Register</string>
+    <string name="please_login">Please Login</string>
+    <string name="have_account">Have account ?</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot password ?</string>
+    <string name="please_sign_up">Please SignUp</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="student_id">Student id</string>
+    <string name="loading">Loading...</string>
+    <string name="button_pay">Pay your fee</string>
+    <string name="button_find_course">Find a course</string>
+    <string name="button_admission_office">Admission office</string>
+    <string name="button_visit">Visit us</string>
+
+    <string name="program_name">Program Name</string>
+    <string name="tip_number">Tip Number</string>
+    <string name="button_click_for_tip">Click for a Tip</string>
+    <string name="help_place_holder">HelpFul Tip Place Holder</string>
+    <string name="d_stress_instruction">Follow the steps and it\'ll help you calm down</string>
+    <string name="button_breathe">Breathe</string>
+    <string name="text_breathe">Take a second to breathe</string>
+    <string name="planner">Future Planer</string>
+    <string name="share_app">Share App</string>
+    <string name="check_update">Check for Update</string>
+    <string name="add_new_plan">Add New Plan</string>
+
+    <string name="add_new_course">Add Module</string>
+    <string name="course_management">Module Management</string>
+    <string name="add_attendance">Add Attendance</string>
+    <string name="add_attendance_activity">Attendance</string>
+    <string name="profile">Profile</string>
+    <string name="pick_module">Pick module</string>
+
+    <!--   URLS -->
+
+
+    <string name="time_table_link">https://www.dit.ie/studentservices/programmetimetables/accessthetimetablesystem/</string>
+    <string name="payment_link">https://www.tudublin.ie/study/undergraduate/feesregistration/</string>
+    <string name="pay_fee_link">https://www.dit.ie/studentservices/feesandgrants/paymentspaymentdeadlines/</string>
+
+    <string name="find_course_link">https://www.tudublin.ie/study/find-a-course/</string>
+    <string name="admission_office_link">https://www.tudublin.ie/study/admissions-office/</string>
+    <string name="visit_link">https://www.tudublin.ie/study/visit-us/</string>
+
+    <string name="health_center_link">https://www.tudublin.ie/for-students/student-services-and-support/student-wellbeing/student-health-centres/</string>
+    <string name="tutoring_center_link">https://www.dit.ie/ace/access/callforacetutors/</string>
+    <string name="counseling_services_link">https://www.tudublin.ie/for-students/student-services-and-support/student-wellbeing/counselling-service/</string>
+</resources>

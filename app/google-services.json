@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "596617806277",
+    "firebase_url": "https://student-support-system-app-default-rtdb.firebaseio.com",
+    "project_id": "student-support-system-app",
+    "storage_bucket": "student-support-system-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596617806277:android:e35c993c3293be5988cbac",
+        "android_client_info": {
+          "package_name": "com.example.android.myloginandregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596617806277-03f37l15nbbpllqcoddal0hlspv0a3jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHV3AEYt-VDZ5BDzVpqZGmTSyHe0xPpgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596617806277-03f37l15nbbpllqcoddal0hlspv0a3jr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

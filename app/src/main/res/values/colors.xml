@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1A4170</color>
+    <color name="colorPrimaryDark">@color/colorPrimary</color>
+    <color name="colorAccent">@color/colorPrimary</color>
+    <color name="background">#FFFFFF</color>
+    <color name="widget_color">@color/colorPrimary</color>
+    <color name="text_color">#FFFFFF</color>
+    <color name="error_color">#C11919</color>
+    <color name="date_color">#B7C8C6</color>
+    <color name="item_background_color">#D1CCCC</color>
+    <color name="green_color">#00A807</color>
+    <color name="warning_color">#C30000</color>
+</resources>
